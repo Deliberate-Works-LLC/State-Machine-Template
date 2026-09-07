@@ -57,3 +57,6 @@ venv/
 # Ephemeral graph outputs (root GEMINI — do not commit)
 graphify-out/
 **/graphify-out/
+
+# Vendored QP/C download, not part of this template
+qpc-master/
